@@ -1,6 +1,6 @@
 go get github.com/gsamuel/go_test
 
-go install github.com/gsamuel/got_test/cmd/myprogram
+go install github.com/gsamuel/go_test/cmd/myprogram
 
 bin/myprogram.exe
 
